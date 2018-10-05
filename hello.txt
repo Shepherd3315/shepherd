@@ -9,3 +9,4 @@ hello by master
 sad story
 hello by dev
 edit by local
+edit by remote
